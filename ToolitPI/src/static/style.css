@@ -1,0 +1,28 @@
+
+
+body{
+	background: rgb(251, 251, 252);
+	color: rgb(0, 204, 217);
+	padding:1%;
+	text-align: center;
+}
+
+title {
+	background: rgb(125, 82, 191)
+}
+
+h1 {
+	background: rgb(125, 82, 191);
+	text-align: center;
+	
+}
+
+h4 {
+	display : block;
+	width:100px;
+	height:40px;
+}
+
+h5 {
+	background: rgb(125, 82, 191)
+}
